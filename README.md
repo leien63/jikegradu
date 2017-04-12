@@ -1,0 +1,2 @@
+# jikegradu
+graduation in jike
